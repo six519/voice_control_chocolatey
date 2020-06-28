@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>voice_control</id>
+    <version>1.0.0</version>
+    <title>voice_control (Install)</title>
+    <authors>Ferdinand E. Silva</authors>
+    <projectUrl>https://github.com/six519/voice_control</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/six519/voice_control/master/icon.png</iconUrl>
+    <tags>voice control command</tags>
+    <summary>Voice Control</summary>
+    <description>A simple application to control your computer through voice.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
