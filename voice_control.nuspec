@@ -10,9 +10,6 @@
     <tags>voice control command</tags>
     <summary>Voice Control</summary>
     <description>A simple application to control your computer through voice.</description>
-    <dependencies>
-      <dependency id="dotnet4.7.2" version="4.7.2.20180712" />
-    </dependencies>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
